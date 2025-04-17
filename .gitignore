@@ -1,0 +1,45 @@
+# -------------------------
+# dbt build artifacts
+# -------------------------
+dbt_packages/
+target/
+dbt_modules/
+
+# dbt logs (optional)
+logs/
+manifest.json
+run_results.json
+
+# -------------------------
+# Python virtual environments
+# -------------------------
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# -------------------------
+# IDEs and Editor Settings
+# -------------------------
+
+# VS Code
+.vscode/
+
+# Windsurf (based on VS Code)
+.windsurf/
+
+# JetBrains IDEs (just in case)
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# -------------------------
+# Other
+# -------------------------
+*.log
+*.bak
