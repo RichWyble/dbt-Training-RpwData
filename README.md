@@ -9,3 +9,6 @@ I didn't.
 Instead, I took a shortcut path as suggested by others. It got me to a point where I was knowledgeable and productive, but now I want to understand more of the *why* and dig into the details.
 
 Welcome to the world of instant gratification — and the era of no-code and AI. 🤔
+
+
+# **The dbt_Fundamentals branch is protected.**
